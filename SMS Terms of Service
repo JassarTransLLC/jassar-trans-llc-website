@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMS Terms of Service | Jassar Trans LLC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>SMS Terms of Service</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="terms-and-conditions.html">Terms & Conditions</a>
+            <a href="sms-terms-of-service.html">SMS Terms of Service</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>SMS Terms of Service</h2>
+
+        <p>Welcome to Jassar Trans LLC! By opting into SMS communications, you agree to receive text messages from us. Below, you will find the important details regarding our SMS service.</p>
+
+        <h3>Types of Messages You Will Receive</h3>
+        <p>As a customer of Jassar Trans LLC, you may receive the following types of SMS messages:</p>
+        <ul>
+            <li><strong>Appointment Scheduling:</strong> Receive text messages regarding the scheduling of your transportation services.</li>
+            <li><strong>Appointment Reminders:</strong> We will send reminders of your upcoming transportation appointments to ensure timely service.</li>
+            <li><strong>Order Alerts:</strong> Get notifications about the status of your shipment, including updates and confirmations.</li>
+            <li><strong>Account Notifications:</strong> Receive alerts related to your account, such as status updates or billing notifications.</li>
+        </ul>
+
+        <h3>Messaging Frequency</h3>
+        <p>The frequency of messages will vary based on your interactions with Jassar Trans LLC. Messages may be sent at different intervals depending on the type of service or update. For example, you may receive multiple reminders leading up to an appointment, or you may receive updates as your shipment progresses.</p>
+
+        <h3>Message and Data Rates</h3>
+        <p>Message and data rates may apply. Please check with your mobile provider for more information about any potential charges related to receiving SMS messages. Jassar Trans LLC is not responsible for any fees incurred by receiving these messages.</p>
+
+        <h3>Opt-Out Instructions</h3>
+        <p>If you wish to stop receiving SMS messages from Jassar Trans LLC, you can opt-out at any time by texting <strong>STOP</strong> to any message you receive. After opting out, you will no longer receive SMS updates unless you opt-in again in the future.</p>
+
+        <h3>For Assistance</h3>
+        <p>If you need assistance or have any questions regarding our SMS service, please text <strong>HELP</strong> to any message you receive. You can also visit our website or contact us directly:</p>
+        <ul>
+            <li>Visit our website: <a href="https://jassartransllc.github.io/jassar-trans-llc-website" target="_blank">Jassar Trans LLC</a></li>
+            <li>Visit us on Instagram: <a href="https://www.instagram.com/kgz03_inc?igsh=MWh4aXBuMzN4cDluYw==" target="_blank">Jassar Trans Instagram</a></li>
+        </ul>
+
+        <h3>Privacy Policy</h3>
+        <p>To learn more about how we protect your information, please refer to our <a href="https://jassartransllc.github.io/jassar-trans-llc-website/privacy-policy.html" target="_blank">Privacy Policy</a>.</p>
+
+        <h3>Agreement</h3>
+        <p>By opting into SMS from Jassar Trans LLC, you consent to receive SMS messages as outlined in these terms. You acknowledge that you have read and understood the information provided above and agree to be bound by these terms.</p>
+
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Jassar Trans LLC. All rights reserved.</p>
+    </footer>
+</body>
+</html>
